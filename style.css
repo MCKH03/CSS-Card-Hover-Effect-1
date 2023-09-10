@@ -44,6 +44,10 @@ body {
   padding: 4rem;
 }
 
+.card:hover {
+  cursor: pointer;
+}
+
 .card-1 {
   background-image: url("./img/img-1.jpg");
 }
